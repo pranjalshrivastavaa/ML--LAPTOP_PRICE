@@ -20,7 +20,7 @@ The dataset includes various features of laptops such as:
 - **Screen Size**: Size of the display in inches.
 - **Price**: Target variable representing the laptop's price.
 
-> **Note**: Ensure that the dataset is placed in the same directory as the notebook or update the path accordingly.
+
 
 🛠️ Installation
 1.Clone the repository:
